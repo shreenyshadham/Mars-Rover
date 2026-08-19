@@ -111,7 +111,7 @@ results/    Model outputs, metrics and evaluation results
 src/        Supporting Python code
 
 ```
-##Author
+## Author
 
 **Chinmayee Shree Nyshadham Rama Bramha
 MSc Data Science
