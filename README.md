@@ -113,7 +113,7 @@ src/        Supporting Python code
 ```
 ## Author
 
-**Chinmayee Shree Nyshadham Rama Bramha
-MSc Data Science
-School of Computing
-Newcastle University
+**Chinmayee Shree Nyshadham Rama Bramha**<br>
+MSc Data Science<br>
+School of Computing<br>
+Newcastle University<br>
